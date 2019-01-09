@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * <pre>类名: Grades</pre>
  * <pre>描述: 班级</pre>
- * <pre>版权: 税友软件集团股份有限公司</pre>
  * <pre>日期: 2019/1/9 13:31</pre>
  * <pre>作者: xueshun</pre>
  */
